@@ -59,8 +59,12 @@ font-size: 20px;
 font-weight: 600;
 line-height: 94.8%;
 }
-.textaria{
-
+.textaria h4{
+    color: #2F2F2F;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 139.8%;
+    margin-top: 20px;
 }
 .banner-img{
     width: 750px;
