@@ -88,3 +88,20 @@ margin: 60px 94px 0 6px;
     line-height: 94.8%;
 
 }
+
+
+.main{
+   display: grid;
+   grid-template-columns: repeat(4, 1fr);
+   align-items: center;
+   margin: 0 auto;
+   width: 100%;
+}
+
+
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: #FF7E00;
+    border: 1px solid greenyellow;
+}
